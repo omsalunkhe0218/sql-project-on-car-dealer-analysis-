@@ -1,1 +1,1 @@
-# sql-project-on-car-dealer-analysis-
+# simple-sql-project-on-car-dealer-analysis-
